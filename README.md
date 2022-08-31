@@ -1,0 +1,2 @@
+# Mission-to-Mars1
+In this project, we are helping Robin who is a junior data scientist. She dream to work for NASA one day. She is thinking of a web-scraping project. Which will help people get the latest news and updates with the click of a button. We will create a web app for someone who wants to keep up with the Mission to Mars. Using the web scraping technique, she can pull data from multiple websites, store it in a database, then present it on one webpage.
