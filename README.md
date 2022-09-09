@@ -15,23 +15,26 @@ HTML Index page to display results
 Flask App that connects the Python script to HTML and MongoDB in order to display the results
 
 ### Deliverables
-- Using the Chrome Developer tools, visit the NASA News website and identify the HTML tags that contains the information to scrape
+- We use the Chrome Developer tools to visit the NASA News website and identify the HTML tags that contains the information to scrape
 
-- Automate the Chrome browser using Splinter to visit the URL.
+- We automate the Chrome browser using Splinter to visit the URL.
 
-- Using BeautifulSoup, parse the HTML of the page.
+- we use BeautifulSoup to parse the HTML of the page.
 
-- Scrape all appropriate HTML tags for news title and article.
+- We scrape all appropriate HTML tags for news title and article.
 
-- Similarly, Visit space images website and identify the HTML tags that contains the information to scrape.
+- Then, we visit space images website and identify the HTML tags that contains the information to scrape.
 
-- Automate the browser using Splinter an use BeautifulSoup to scrape the Mars featured image.
+- We automate the browser using Splinter and use BeautifulSoup to scrape the Mars featured image.
 
-- Next, using Splinter and BeautifulSoup, visit the galaxy facts website to scrape mars facts.
+- Next, we use Splinter and BeautifulSoup to visit the galaxy facts website to scrape mars facts.
 
-- Parse the scraped data to a dataframe and then convert to HTML table.
+- We parse the scraped data to a dataframe and then convert to HTML table.
 
-- Finally, vsisit the mars hemisphers website and scrape full resolution images of all 4 mars hemispheres.
+- We visit the mars hemisphers website and scrape full resolution images of all 4 mars hemispheres.
 
-- In a python script, store all the scraped data in MongoDB.
+- In a python script, we store all the scraped data in MongoDB.
 
+- We have the webpage with mobile-response.
+
+- Finally, we have two additional Bootstrap 3 components are used to style the webpage.
